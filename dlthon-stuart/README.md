@@ -86,7 +86,7 @@ KLUE benchmark is composed of 8 tasks: ([paper](https://arxiv.org/pdf/2105.09680
 
 ||**NSMC**(acc)|
 |---|---|
-|KoGPT2 2.0	|90.24|
+|KoBART-base	|90.24|
 
 ---
 
