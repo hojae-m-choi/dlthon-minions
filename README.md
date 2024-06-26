@@ -1,5 +1,5 @@
 # dlthon-minions
-AIFFEL 온라인 7기 DLthon 7팀의 레포지토리입니다  
+AIFFEL 온라인 8기 DLthon 7팀의 레포지토리입니다  
 
 
 팀원: 김나경, 고대현, 최호재
