@@ -6,3 +6,6 @@ dlthon-stuart/wandb/
 share/wandb/
 dlthon-kevin/hs_err_pid423.log
 share/.ipynb_checkpoints/
+share/models
+share/submissions
+share/artifacts
