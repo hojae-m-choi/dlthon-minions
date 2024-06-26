@@ -1,0 +1,11 @@
+konlpy
+torch>2 
+torchvision 
+torchaudio 
+--index-url https://download.pytorch.org/whl/cu118
+
+tokenizers 
+transformers>=4.41  
+accelerate>=0.21.0 
+datasets 
+evaluate
