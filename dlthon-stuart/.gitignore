@@ -1,0 +1,6 @@
+wandb
+.ipynb_checkpoints
+deprecated
+venv
+logs
+test_trainer
